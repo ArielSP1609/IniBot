@@ -1,0 +1,13 @@
+> heroku buildpack
+https://github.com/clhuang/heroku-buildpack-webp-binaries
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+
+Pengen No Enc? chat gw Harga 20K
+wa.me/6282118022072
+
+Gada Duit Buat Beli? Lagi Miskin? Lagi Kere?
+yt : Rifza 123
+Silahkan Kesana No Enc
+
+Ganti Nomor Bot? Nama Bot? Instagram?
+ke folder FunctionMD > settings > options.js
